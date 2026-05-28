@@ -1,6 +1,6 @@
 """case_xlsx_pipeline.py - XLSX ETVL pipeline.
 
-Author: Denise Case
+Author: James Webb
 Date: 2026-04
 
   Practice key Python skills related to:

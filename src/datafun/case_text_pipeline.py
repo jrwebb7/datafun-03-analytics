@@ -1,6 +1,6 @@
 """case_text_pipeline.py - Text ETVL pipeline.
 
-Author: Denise Case
+Author: James Webb
 Date: 2026-04
 
   Practice key Python skills related to:
